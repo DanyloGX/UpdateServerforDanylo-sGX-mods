@@ -1,0 +1,15 @@
+add Main/Additional/ActN_NYEvil/Stage-Add.pfd
+add Main/Packed/ActN_NYEvil/Stage.pfd
+add Main/work/ActN_NYEvil/Terrain.prm.xml
+add Main/#ActN_SubNY_02.ar.00
+add Main/#ActN_SubNY_02.arl
+add Main/+#Application.ar.00
+add Main/+#Application.arl
+add Main/ActN_NYEvil.ar.00
+add Main/ActN_NYEvil.arl
+add Easy/#ActN_NYEvil.ar.00
+add Easy/#ActN_NYEvil.arl
+add Normal/#ActN_NYEvil.ar.00
+add Normal/#ActN_NYEvil.arl
+add mod.json
+add mod.ini

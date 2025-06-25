@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Option",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Difficulty",
+          "Description": [
+            "Choose Difficulty"
+          ],
+          "Type": "Difficulty option",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Normal/"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "Difficulty option": [
+      {
+        "DisplayName": "Normal",
+        "Value": "./Normal/",
+        "Description": [
+          "Usual object set in both Acts and Pachacamac Parking Building at the end of Act 1 is mandatory."
+        ]
+      },
+      {
+        "DisplayName": "Easy",
+        "Value": "./Easy/",
+        "Description": [
+          "Object set with object balances in both Acts and Pachacamac Parking Building at the end of Act 1 is optional."
+        ]
+      }
+    ]
+  },
+    "IniFile": "mod.ini"
+  }
