@@ -1,0 +1,200 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Mod Configuration",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "HFR Fixes",
+          "Description": [
+            "Chose your target FPS",
+			"",
+			"Mod designed for play at 144FPS maximum"
+          ],
+          "Type": "HFRFixes",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./60FpsFix/"
+        },
+        {
+          "Name": "IncludeDir5",
+          "DisplayName": "Drawing Distance Fixes",
+          "Description": [
+            "Enables drawing distance fixes for some stages",
+			"",
+			"This will affect performance"
+          ],
+          "Type": "Drawingfix",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Dummy/"
+        },
+        {
+          "Name": "IncludeDir6",
+          "DisplayName": "Planar Reflections",
+          "Description": [
+            "Enables Planar Reflections on water surfaces for all stages except JJR Day Act 1 and CE Day Act 1",
+			"",
+			"This will affect performance"
+          ],
+          "Type": "PlanarRef",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Dummy/"
+        },
+        {
+          "Name": "IncludeDir4",
+          "DisplayName": "RTR Night Act 1 Terrain LOD",
+          "Description": [
+            "Disables terrain LOD's seen from top of clock tower",
+			"",
+			"This will affect performance"
+          ],
+          "Type": "ActN_EUEvilLODs",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Dummy/"
+        },
+        {
+          "Name": "IncludeDir7",
+          "DisplayName": "JJR Night Act 3 Water Material",
+          "Description": [
+            "Switches how water surface looks",
+			"",
+			"Works with Jungle Joyride Night Restoration mod"
+          ],
+          "Type": "ActN_BeachEvilWater",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./ActN_BeachEvilFinalWater/"
+        },
+        {
+          "Name": "IncludeDir8",
+          "DisplayName": "Tornado Defense Aligned Positions",
+          "Description": [
+            "Enable aligned positions on plane for Sonic and Tails at the beginning of stage"
+          ],
+          "Type": "ExStageAlignedPositions",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Dummy/"
+        }		
+      ]
+    }
+  ],
+  "Enums": {
+    "HFRFixes": [
+      {
+        "DisplayName": "OFF",
+        "Value": "./Dummy/",
+        "Description": [
+          "Disable HFR Fixes"
+        ]
+      },
+      {
+        "DisplayName": "60FPS",
+        "Value": "./60FpsFix/", 
+        "Description": [
+          "60FPS Fixes."
+        ]
+      },
+      {
+        "DisplayName": "120FPS",
+        "Value": "./120FpsFix/", 
+        "Description": [
+          "120FPS Fixes"
+        ]
+      },
+      {
+        "DisplayName": "144FPS",
+        "Value": "./144+FpsFix/", 
+        "Description": [
+          "144FPS Fixes"
+        ]
+      }	  
+    ],
+    "Drawingfix": [
+      {
+        "DisplayName": "OFF",
+        "Value": "./Dummy/",
+        "Description": [
+          "Disable drawing distance fixes"
+        ]
+      },
+      {
+        "DisplayName": "ON",
+        "Value": "./Drawingfix/", 
+        "Description": [
+          "Enable drawing distance fixes"
+        ]
+      }	  
+    ],
+    "PlanarRef": [
+      {
+        "DisplayName": "OFF",
+        "Value": "./Dummy/",
+        "Description": [
+          "Disable drawing distance fixes"
+        ]
+      },
+      {
+        "DisplayName": "ON",
+        "Value": "./PlanarRef/", 
+        "Description": [
+          "Enable drawing distance fixes"
+        ]
+      }	  
+    ],	
+    "ActN_EUEvilLODs": [
+      {
+        "DisplayName": "OFF",
+        "Value": "./Dummy/",
+        "Description": [
+          "Enable LOD terrain"
+        ]
+      },
+      {
+        "DisplayName": "ON",
+        "Value": "./ActN_EUEvilnoLODs/", 
+        "Description": [
+          "Disable LOD terrain"
+        ]
+      }	  
+    ],
+    "ActN_BeachEvilWater": [
+      {
+        "DisplayName": "Transparent",
+        "Value": "./ActN_BeachEvilBetaWater/",
+        "Description": [
+          "Water material from earlier versions of game that makes water transparent"
+        ]
+      },
+      {
+        "DisplayName": "Green",
+        "Value": "./ActN_BeachEvilFinalWater/", 
+        "Description": [
+          "Water material from final version of game that makes water greenish"
+        ]
+      }	  
+    ],
+    "ExStageAlignedPositions": [
+      {
+        "DisplayName": "ON",
+        "Value": "./ExStageAlignedPositions/",
+        "Description": [
+          "Sonic and Tails at the beginning of stage will be aligned on Tornado"
+        ]
+      },
+      {
+        "DisplayName": "OFF",
+        "Value": "./Dummy/", 
+        "Description": [
+          "Sonic and Tails at the beginning of stage will be as usual on Tornado for a better look at them"
+        ]
+      }	  
+    ]	
+  },
+  
+    "IniFile": "mod.ini"
+  }
