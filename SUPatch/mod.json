@@ -108,7 +108,7 @@
       },
       {
         "DisplayName": "144FPS",
-        "Value": "./144+FpsFix/", 
+        "Value": "./144+ FpsFix/", 
         "Description": [
           "144FPS Fixes"
         ]
@@ -180,17 +180,17 @@
     ],
     "ExStageAlignedPositions": [
       {
-        "DisplayName": "ON",
-        "Value": "./ExStageAlignedPositions/",
-        "Description": [
-          "Sonic and Tails at the beginning of stage will be aligned on Tornado"
-        ]
-      },
-      {
         "DisplayName": "OFF",
         "Value": "./Dummy/", 
         "Description": [
           "Sonic and Tails at the beginning of stage will be as usual on Tornado for a better look at them"
+        ]
+      },
+      {
+        "DisplayName": "ON",
+        "Value": "./ExStageAlignedPositions/",
+        "Description": [
+          "Sonic and Tails at the beginning of stage will be aligned on Tornado"
         ]
       }	  
     ]	
