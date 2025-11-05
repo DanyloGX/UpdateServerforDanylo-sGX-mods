@@ -9,6 +9,7 @@ Gameplay:
 - Fixed Jog and Jet animations for Sonic (Adjusted Animations Mod)
 - Slightly tweaked camera for infamous balance section in SS Night Act 1 (Skyscraper Scamper Night Act 1 Complete)
 - Fixed Jump Board Collision at 60/120fps and fixed homing on swing poles in SC Day Act 4
+- Fixed Jump Panel causes death when FPS is above 120 at very end of SC Day Act 5
 - Fixed fps problem in DR Day Act 2-2
 - Fixed QTE Board in AS Day Act 2 on above 60fps
 - Fixed Lap skip at 120+ fps in JJR Day Act 2

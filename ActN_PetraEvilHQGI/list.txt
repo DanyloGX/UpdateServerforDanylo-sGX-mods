@@ -1,0 +1,7 @@
+add Additional\ActN_PetraEvil\Stage-Add.pfd
+add Packed\ActN_PetraEvil\Stage.pfd
+add +#ActN_PetraEvil.ar.00
+add +#ActN_PetraEvil.arl
+add +ActN_PetraEvil.ar.00
+add +ActN_PetraEvil.arl
+add mod.ini
