@@ -10,8 +10,11 @@ Gameplay:
 - Slightly tweaked camera for infamous balance section in SS Night Act 1 (Skyscraper Scamper Night Act 1 Complete)
 - Fixed Jump Board Collision at 60/120fps and fixed homing on swing poles in SC Day Act 4
 - Fixed Jump Panel causes death when FPS is above 120 at very end of SC Day Act 5
-- Fixed fps problem in DR Day Act 2-2
+- Fixed last QS section don't work in DR Day Act 1 and Act 1-2 at 120fps
+- Fixed Dash Ring in 3rd lap in DR Day Act 2-2 at 60fps 
+- Fixed when Sonic misses Rainbow Ring in 3rd lap in DR Day Act 2-2 at 60fps 
 - Fixed QTE Board in AS Day Act 2 on above 60fps
+- Fixed when Dash Ring sometimes lead to death in Second 3D Section in JJR Day Act 1-2 at 120fps
 - Fixed Lap skip at 120+ fps in JJR Day Act 2
 - Fixed Ready Go problem in JJR Day Act 5 at uncapped fps
 - Fixed the selling price of Chao Chugger edible item
@@ -21,18 +24,21 @@ Gameplay:
 Visual:
 - Restored unused animals set at the beginning of SC Night Act 1 (Savannah Citadel Night Act 1 & 4 United)
 - Restored balloon sfx in DR Day Act 2, Act 2-2 and JJR Day Act 1-2 (Unleashed Fixes)
+- Restored "Ready, GO!" for DR Day Act 3
 - Disabled color correction in SC Day Act 1, Act 1-2, DR Night Act 2, Act 3 (Unleashed Fixes), AS Day Act 1 and Act 1-2
 - Fixed dynamic shadows direction in DR Day Act 3
 - Fixed DoF Effect in DR Day Act 5
 - Fixed starting camera in AS Day Act 1 and Act 2
 - Fixed Water animation in JJR Night Act 3 (and added color option)
 - Fixed Tails animation during Tornado transformation scene in Tornado Defence Act 2
+- Fixed bloom in Gaia Colossus Run Sections
 - Fixed incorrect subtitle in "To the Surface" cutscene
-- Fixed issue with shadows from spring objects
 - Fixed floor drawing in "Begin Anew" cutscene
+- Fixed issue with shadows from spring objects
 - Fixed Werehog's UV
 - Fixed rail misalignment in WI Day Act 3, JJR Day Act 1
-- Fixed drawing issues in CE Night Act 1, WII Day Act 2, Act 2-2, Act 3, Act 4, SC Day Act 1 and Act 1-2, RTR Day Act 1 and Act 1-2 (Optional)
+- Fixed drawing issues in CE Night Act 1, WII Day Act 2, Act 2-2, Act 3, Act 4, SC Day Act 1 and Act 1-2, RTR Day Act 1, Act 1-2, JJR Day Act 1-2 and SS Day Act 1 (Optional)
+- Added missing fire effects in AS Night Act 1
 - Added option for Sonic's and Tails position on Tornado in Tornado Defence stages
 - Tweaked water materials in DR Night Act 2 and Act 3
 - Restored missing effect objects in DR Day Act 2-2 and Phoenix Boss Arena 
@@ -40,4 +46,14 @@ Visual:
 Extra:
 - Added Unleshed Project camera transition between first 3D and 2D sections for JJ Day Act 1 & 1-2
 - Added Planar Reflections for all possible stages (Optional)
+- Added proper Quick Step in Gaia Colossus Run Sections
+- Added August Egg Devil Ray Boss object set as a bonus for "Drawing Fix" option 
 - Disabled LODs in RTR Night Act 1 (Optional)
+
+
+
+
+
+
+
+
