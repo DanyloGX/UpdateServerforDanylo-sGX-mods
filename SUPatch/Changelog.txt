@@ -10,7 +10,7 @@ Gameplay:
 - Slightly tweaked camera for infamous balance section in SS Night Act 1 (Skyscraper Scamper Night Act 1 Complete)
 - Fixed Jump Board Collision at 60/120fps and fixed homing on swing poles in SC Day Act 4
 - Fixed Jump Panel causes death when FPS is above 120 at very end of SC Day Act 5
-- Fixed last QS section don't work in DR Day Act 1 and Act 1-2 at 120fps
+- Fixed last QS section that didn't work in DR Day Act 1 and Act 1-2 at 120fps
 - Fixed Dash Ring in 3rd lap in DR Day Act 2-2 at 60fps 
 - Fixed when Sonic misses Rainbow Ring in 3rd lap in DR Day Act 2-2 at 60fps 
 - Fixed QTE Board in AS Day Act 2 on above 60fps

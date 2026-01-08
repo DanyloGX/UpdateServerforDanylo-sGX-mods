@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Option",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Difficulty",
+          "Description": [
+            "Choose Difficulty"
+          ],
+          "Type": "Difficulty option",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./Normal/"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "Difficulty option": [
+      {
+        "DisplayName": "Normal",
+        "Value": "./Normal/",
+        "Description": [
+          "Original Act 4 Difficulty and fight with robots between Acts is enabled"
+        ]
+      },
+      {
+        "DisplayName": "Easy",
+        "Value": "./Easy/",
+        "Description": [
+          "Tweaked Act 4 Difficulty and fight with robots between Acts is disabled"
+        ]
+      }
+    ]
+  },
+    "IniFile": "mod.ini"
+  }
