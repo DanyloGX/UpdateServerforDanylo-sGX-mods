@@ -14,7 +14,7 @@ Gameplay:
 - Fixed Dash Ring in 3rd lap in DR Day Act 2-2 at 60fps 
 - Fixed when Sonic misses Rainbow Ring in 3rd lap in DR Day Act 2-2 at 60fps 
 - Fixed QTE Board in AS Day Act 2 on above 60fps
-- Fixed when Dash Ring sometimes lead to death in Second 3D Section in JJR Day Act 1-2 at 120fps
+- Fixed when Dash Ring sometimes lead to death in Second 3D Section in JJR Day Act 1-2 at 144fps
 - Fixed Lap skip at 120+ fps in JJR Day Act 2
 - Fixed Ready Go problem in JJR Day Act 5 at uncapped fps
 - Fixed the selling price of Chao Chugger edible item

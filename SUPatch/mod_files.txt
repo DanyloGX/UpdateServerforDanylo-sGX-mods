@@ -1,50 +1,9 @@
-delete Main/+#ActD_SubMykonos_02.ar.00
-delete Main/+#ActD_SubMykonos_02.arl
-add 120FpsFix/+#ActD_China.ar.00
-add 120FpsFix/+#ActD_SubBeach_05.ar.00
-add 120FpsFix/+#ActD_SubBeach_05.arl
-add 120FpsFix/+#ActD_SubChina_05.ar.00
-add 120FpsFix/+#ActD_SubChina_05.arl
-add 120FpsFix/+#ActD_SubChina_06.ar.00
-add 120FpsFix/+#ActD_SubChina_06.arl
-add 120FpsFix/+#SystemCommon.ar.00
-add 120FpsFix/+#SystemCommon.arl
-add 120FpsFix/work/ActD_SubBeach_05/Base.set.xml
-add 144+ FpsFix/+#ActD_China.ar.00
+delete 120FpsFix/+#ActD_SubBeach_05.ar.00
+delete 120FpsFix/+#ActD_SubBeach_05.arl
+delete 120FpsFix/work/ActD_SubBeach_05/Base.set.xml
 add 144+ FpsFix/+#ActD_SubBeach_05.ar.00
 add 144+ FpsFix/+#ActD_SubBeach_05.arl
-add 144+ FpsFix/+#ActD_SubChina_05.ar.00
-add 144+ FpsFix/+#ActD_SubChina_05.arl
-add 144+ FpsFix/+#ActD_SubChina_06.ar.00
-add 144+ FpsFix/+#ActD_SubChina_06.arl
-add 144+ FpsFix/+#SystemCommon.ar.00
-add 144+ FpsFix/+#SystemCommon.arl
 add 144+ FpsFix/work/ActD_SubBeach_05/Base.set.xml
-add 60FpsFix/+#ActD_SubChina_05.ar.00
-add 60FpsFix/+#ActD_SubChina_05.arl
-add 60FpsFix/+#ActD_SubChina_05.arl
-add 60FpsFix/+#ActD_SubChina_06.ar.00
-add 60FpsFix/+#ActD_SubChina_06.arl
-add Drawingfix/+#BossEggRayBird.ar.00
-add Drawingfix/+#BossEggRayBird.arl
-add Drawingfix/work/ActD_Beach/Terrain.prm.xml
-add Drawingfix/work/ActD_NY/Terrain.prm.xml
-add Main/+#ActD_Beach.ar.00
-add Main/+#ActD_Beach.arl
-add Main/+#ActD_SubBeach_05.ar.00
-add Main/+#ActD_SubBeach_05.arl
-add Main/+#ActD_SubChina_04.ar.00
-add Main/+#ActD_SubChina_04.arl
-add Main/+#ActD_SubMykonos_01.ar.00
-add Main/+#ActD_SubMykonos_01.arl
-add Main/+#ActN_PetraEvil.ar.00
-add Main/+#ActN_PetraEvil.arl
-add Main/+#BossDarkGaia1_1Run.ar.00
-add Main/+#BossDarkGaia1_1Run.arl
-add Main/+#BossDarkGaia1_2Run.ar.00
-add Main/+#BossDarkGaia1_2Run.arl
-add Main/+#BossDarkGaia1_3Run.ar.00
-add Main/+#BossDarkGaia1_3Run.arl
 add Changelog.txt
 add mod.ini
 add mod.json
