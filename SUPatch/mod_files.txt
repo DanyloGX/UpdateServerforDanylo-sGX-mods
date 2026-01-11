@@ -4,6 +4,7 @@ delete 120FpsFix/work/ActD_SubBeach_05/Base.set.xml
 add 144+ FpsFix/+#ActD_SubBeach_05.ar.00
 add 144+ FpsFix/+#ActD_SubBeach_05.arl
 add 144+ FpsFix/work/ActD_SubBeach_05/Base.set.xml
+add Drawingfix/work/ActD_SubBeach_05/Terrain.prm.xml
 add Changelog.txt
 add mod.ini
 add mod.json
