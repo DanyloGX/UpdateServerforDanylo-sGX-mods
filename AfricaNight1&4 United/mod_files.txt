@@ -1,5 +1,5 @@
-add Main/Additional/ActN_AfricaEvil/Stage-Add.pfd
-add Main/Packed/ActN_AfricaEvil/Stage.pfd
+add Main/+ActN_AfricaEvil.ar.00
+add Main/+ActN_AfricaEvil.arl
 add Easy/#ActN_AfricaEvil.ar.00
 add Easy/#ActN_AfricaEvil.arl
 add Normal/#ActN_AfricaEvil.ar.00
