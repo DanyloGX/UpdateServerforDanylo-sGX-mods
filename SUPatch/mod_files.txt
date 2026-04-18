@@ -1,10 +1,40 @@
 delete 120FpsFix/+#ActD_SubBeach_05.ar.00
 delete 120FpsFix/+#ActD_SubBeach_05.arl
 delete 120FpsFix/work/ActD_SubBeach_05/Base.set.xml
-add 144+ FpsFix/+#ActD_SubBeach_05.ar.00
-add 144+ FpsFix/+#ActD_SubBeach_05.arl
-add 144+ FpsFix/work/ActD_SubBeach_05/Base.set.xml
-add Drawingfix/work/ActD_SubBeach_05/Terrain.prm.xml
+add 60FpsFix/+#SystemCommon.ar.00
+add 60FpsFix/+#SystemCommon.arl
+add 120FpsFix/+#SystemCommon.ar.00
+add 120FpsFix/+#SystemCommon.arl
+add 144+ FpsFix/+#SystemCommon.ar.00
+add 144+ FpsFix/+#SystemCommon.arl
+add Drawingfix/+#ActN_AfricaEvil.ar.00
+add Drawingfix/+#ActN_AfricaEvil.arl
+add Drawingfix/+#ActN_ChinaEvil.ar.00
+add Drawingfix/+#ActN_ChinaEvil.arl
+add Drawingfix/+#CmnTown_China.ar.00
+add Drawingfix/+#CmnTown_China.arl
+add Drawingfix/+#Town_Africa.ar.00
+add Drawingfix/+#Town_Africa.arl
+add Drawingfix/+ActN_ChinaEvil.ar.00
+add Drawingfix/+ActN_ChinaEvil.arl
+add Drawingfix/+Town_China.ar.00
+add Drawingfix/+Town_China.arl
+add Drawingfix/+Town_China_Night.ar.00
+add Drawingfix/+Town_China_Night.arl
+add Drawingfix/work/ActD_NY/DrawingFix.set.xml
+add Drawingfix/work/ActD_NY/Stage.stg.xml
+add Drawingfix/work/ActD_NY/Terrain.prm.xml
+add Drawingfix/work/ActN_MykonosEvil/Terrain.prm.xml
+add Drawingfix/work/ActN_MykonosEvil/DrawingFix.set.xml
+add Drawingfix/work/ActN_MykonosEvil/Stage.stg.xml
+add Main/+#ActD_SubBeach_05.ar.00
+add Main/+#ActD_SubBeach_05.arl
+add Main/+#ActN_MykonosEvil.ar.00
+add Main/+#ActN_MykonosEvil.arl
+add Main/+ActN_AfricaEvil.ar.00
+add Main/+ActN_AfricaEvil.arl
+add Main/work/Town_China_Night/SceneEffect.prm.xml
+add PlanarRef/work/ActD_China/SceneEffect.prm.xml
 add Changelog.txt
 add mod.ini
 add mod.json

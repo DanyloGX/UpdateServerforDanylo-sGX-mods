@@ -1,53 +1,54 @@
 Gameplay:
-- Fixed crash from Big Mother if she has enough health to survive QTE sequence in WI Night Act 3 (Misc Stage Fixes)
+- Fixed crash caused by Big Mother if she has enough health to survive QTE sequence in WMI Night Act 3 (Misc Stage Fixes)
 - Fixed S-rank route at 60/120 fps in RTR Act 5 (Unleashed Fixes)
-- Fixed route on 60/120fps for SC Day Act 5 (Unleashed Fixes)
-- Fixed jump after first loop is on 60/120fps in DR Day Act 1 (Unlocked Framerate Fix)
-- Fixed conveyor belt in the first 2D section of Eggmanland (Misc Stage Fixes)
-- Fixed Level, Lift Door, and Bendy Pole (Packinko) on 120fps & above (Unlocked Framerate Fix)
-- Fixed Quick Step section in SS Day Act 1 (Misc Stage Fixes)
+- Fixed upper route that is harder to reach at 60/120fps in first 2D section in DR Day Act 1 (Unlocked Framerate Fix)
+- Fixed wrong conveyor belt direction in the first 2D section in Eggmanland (Misc Stage Fixes)
+- Fixed Levels, Lift Doors and Bendy (Packinko) Poles at 120fps & above got painfully harder (Unlocked Framerate Fix)
+- Fixed broken splines in second Quick Step section in SS Day Act 1 (Misc Stage Fixes)
 - Fixed Jog and Jet animations for Sonic (Adjusted Animations Mod)
 - Slightly tweaked camera for infamous balance section in SS Night Act 1 (Skyscraper Scamper Night Act 1 Complete)
-- Fixed Jump Board Collision at 60/120fps and fixed homing on swing poles in SC Day Act 4
-- Fixed Jump Panel causes death when FPS is above 120 at very end of SC Day Act 5
-- Fixed last QS section that didn't work in DR Day Act 1 and Act 1-2 at 120fps
-- Fixed Dash Ring in 3rd lap in DR Day Act 2-2 at 60fps 
-- Fixed when Sonic misses Rainbow Ring in 3rd lap in DR Day Act 2-2 at 60fps 
-- Fixed QTE Board in AS Day Act 2 on above 60fps
-- Fixed when Dash Ring sometimes lead to death in Second 3D Section in JJR Day Act 1-2 at 144fps
-- Fixed Lap skip at 120+ fps in JJR Day Act 2
-- Fixed Ready Go problem in JJR Day Act 5 at uncapped fps
+- Fixed Jump Board Collision that shoots Sonic straight into flames at 60/120fps and swing poles that cause Sonic to get stuck for a few seconds when he homes on them in SC Day Act 4
+- Fixed Jump Panel lead to death above 120fps at very end of SC Day Act 5
+- Fixed last QS section breaks above 120fps in DR Day Act 1 and Act 1-2
+- Fixed Rainbow Ring that overshoots Sonic and causes him to miss other Rainbow Ring in 3rd lap in DR Day Act 2-2 at 60fps 
+- Fixed QTE Board undershot Sonic and caused him fall to death in AS Day Act 2 on above 60fps
+- Fixed Dash Ring that sometimes lead to death in Second 3D Section in JJR Day Act 1-2 at 144fps
+- Fixed second lap skip that occurs above 60fps in JJR Day Act 2
+- Fixed Sonic's death immediately after start of JJR Day Act 5 at uncapped fps
 - Fixed the selling price of Chao Chugger edible item
 - Tweaked Air Chaser section for JJR Act 1 and 1-2
 - Restored the Air Chaser section for JJ Day Act 1-2
 
-Visual:
-- Restored unused animals set at the beginning of SC Night Act 1 (Savannah Citadel Night Act 1 & 4 United)
+Visuals:
+- Restored unused animals set at the beginning of SC Night Act 1 (Savannah Citadel Night Act 1 & 4 United) (Drawing Fix Option)
 - Restored balloon sfx in DR Day Act 2, Act 2-2 and JJR Day Act 1-2 (Unleashed Fixes)
 - Restored "Ready, GO!" for DR Day Act 3
+- Restored missing fire effects objects in DR Day Act 2-2, Phoenix Boss Arena and AS Night Act 1
 - Disabled color correction in SC Day Act 1, Act 1-2, DR Night Act 2, Act 3 (Unleashed Fixes), AS Day Act 1 and Act 1-2
 - Fixed dynamic shadows direction in DR Day Act 3
-- Fixed DoF Effect in DR Day Act 5
-- Fixed starting camera in AS Day Act 1 and Act 2
-- Fixed Water animation in JJR Night Act 3 (and added color option)
-- Fixed Tails animation during Tornado transformation scene in Tornado Defence Act 2
-- Fixed bloom in Gaia Colossus Run Sections
-- Fixed incorrect subtitle in "To the Surface" cutscene
-- Fixed floor drawing in "Begin Anew" cutscene
-- Fixed issue with shadows from spring objects
-- Fixed Werehog's UV
-- Fixed rail misalignment in WI Day Act 3, JJR Day Act 1
-- Fixed drawing issues in CE Night Act 1, WII Day Act 2, Act 2-2, Act 3, Act 4, SC Day Act 1 and Act 1-2, RTR Day Act 1, Act 1-2, JJR Day Act 1-2 and SS Day Act 1 (Optional)
-- Added missing fire effects in AS Night Act 1
-- Added option for Sonic's and Tails position on Tornado in Tornado Defence stages
+- Fixed broken DoF Effect in DR Day Act 5
+- Fixed uncentered starting camera in AS Day Act 1 and Act 2
+- Fixed Water animation plays one time in JJR Night Act 3 (and added color option)
+- Fixed Tails missing his mouth during Tornado transformation scene in Tornado Defence Act 2
+- Fixed incorect bloom type in Gaia Colossus Run Sections
+- Fixed incorrect subtitles in the "To the Surface" cutscene
+- Fixed ground textures looking blurry because of drawing bug in the "Begin Anew" cutscene
+- Fixed clipping issue in shadows from springs
+- Fixed stretched Werehog's UVs
+- Fixed Sonic's not standing properly in the result screen of JJR Day Act 1-2, DR Day Act 1
+- Fixed rail misalignments in WMI Day Act 3, JJR Day Act 1 & 1-2
+- Fixed terrain draw disctance issues in WMI Day Act 2, Act 2-2, Act 3, Act 4, WMI Night Act 1, SC Day Act 1 and Act 1-2, RTR Day Act 1, Act 1-2, CE Night Act 1, JJR Day Act 1-2 and SS Day Act 1 (Optional)
+- Fixed light-field brightening issue at the end of stage in WI Night Act 1
+- Aligned Sonic's and Tails position on Tornado in Tornado Defense stages (Optional)
+- Restored cut lanterns for Chun-Nan town and DR Night Act 1 (Drawing Fix Option) 
+- Restored cut butterflies for Mazuri Town (Drawing Fix Option)
 - Tweaked water materials in DR Night Act 2 and Act 3
-- Restored missing effect objects in DR Day Act 2-2 and Phoenix Boss Arena 
 
 Extra:
 - Added Unleshed Project camera transition between first 3D and 2D sections for JJ Day Act 1 & 1-2
-- Added Planar Reflections for all possible stages (Optional)
+- Added Planar Reflections for all possible stages exept CE Day Act 1 and JJR Day Act 1 (Optional)
 - Added proper Quick Step in Gaia Colossus Run Sections
-- Added August Egg Devil Ray Boss object set as a bonus for "Drawing Fix" option 
+- Added August Egg Devil Ray Boss object set, more decorative objects is present in that set (Drawing Fix Option) 
 - Disabled LODs in RTR Night Act 1 (Optional)
 
 
