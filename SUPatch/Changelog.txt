@@ -39,6 +39,7 @@ Visuals:
 - Fixed rail misalignments in WMI Day Act 3, JJR Day Act 1 & 1-2
 - Fixed terrain draw disctance issues in WMI Day Act 2, Act 2-2, Act 3, Act 4, WMI Night Act 1, SC Day Act 1 and Act 1-2, RTR Day Act 1, Act 1-2, CE Night Act 1, JJR Day Act 1-2 and SS Day Act 1 (Optional)
 - Fixed light-field brightening issue at the end of stage in WI Night Act 1
+- Added light-field to SC Night Act 4 - now objects and Werehog have correct lighting color
 - Aligned Sonic's and Tails position on Tornado in Tornado Defense stages (Optional)
 - Restored cut lanterns for Chun-Nan town and DR Night Act 1 and butterflies for Mazuri Town (Drawing Fix Option) 
 - Fixed grass lighting color issue in SC Night Act 1

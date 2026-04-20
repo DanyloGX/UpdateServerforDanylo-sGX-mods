@@ -33,6 +33,8 @@ add Main/+#ActN_MykonosEvil.ar.00
 add Main/+#ActN_MykonosEvil.arl
 add Main/+ActN_AfricaEvil.ar.00
 add Main/+ActN_AfricaEvil.arl
+add Main/+ActN_SubAfrica_03.ar.00
+add Main/+ActN_SubAfrica_03.arl
 add Main/work/Town_China_Night/SceneEffect.prm.xml
 add PlanarRef/work/ActD_China/SceneEffect.prm.xml
 add Changelog.txt
